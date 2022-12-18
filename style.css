@@ -1,0 +1,25 @@
+body {background-color: rgb(169, 184, 181); }
+
+h1,h2 {
+        line-height: 1cm;
+}
+h1,h2 { 
+    background-color:rgb(204, 209, 211);
+    
+}
+h1,h2 { 
+    background-color:rgba(35, 123, 153, 0.616);
+    color: rgb(250, 234, 214);
+}
+img {
+    border-radius: 60%;
+
+  }
+
+  h3 {
+   text direction: top: height: 10 ;;
+  }
+ 
+ {
+    text-indent: 30;
+ }
